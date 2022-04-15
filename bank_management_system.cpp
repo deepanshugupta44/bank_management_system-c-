@@ -121,8 +121,8 @@ int main()
                         		{
                                 		while(1)
                                 		{
-                                        		cout<<"\nEnter your choice\n1.display details\n2.Withdraw\n";
-	                                        	cout<<"3.deposit\n4.pin change\n5.quit\n";
+                                        		cout<<"\nEnter your choice...\n1.Display details\n2.Withdraw\n";
+	                                        	cout<<"3.Deposit\n4.Pin change\n5.Quit\n";
         	                                	cin>>choice;
                 	                        	switch(choice)
                         	                	{
